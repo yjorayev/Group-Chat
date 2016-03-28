@@ -1,4 +1,3 @@
-#Yhlas Jorayev, Mujahid
 from socket import *
 import select
 import sys
